@@ -10,9 +10,12 @@
 <h3>🖥 Some stuff about me ✌🏻</h3>
 <ul>
 <li>I hold <em>Bachelors of Computer Science</em> degree from <strong>University of Karachi</strong>.</li>
-<li>I'm working as a <em>Associate Software Engineer</em> at <strong>Sudofy</strong>.</li>
-<li>Working as <em>Program Manager</em> for <strong>Sudofy Internship Program</strong>.</li>
+    
     <br/>
+<li>I'm working as a <em>Associate Software Engineer</em> at <strong>Sudofy</strong>.</li>
+    
+    <br/>
+<li>Working as <em>Program Manager</em> for <strong>Sudofy Internship Program</strong>.</li>
     <br/>
 </ul>
 <hr>
