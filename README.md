@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/materialui-%2361DCFB.svg?style=for-the-badge&logo=materialui&logoColor=white">
     <img src="https://img.shields.io/badge/gatsby-%23563D7C.svg?style=for-the-badge&logo=gatsby&logoColor=white">
 </div>
-<br>
 <hr>
 
 <h3>Contact me ✨</h3>
